@@ -1,0 +1,91 @@
+
+
+.c1{
+	margin-top: 80px;
+}
+
+
+.c2{
+	width: 70%;
+	 margin: 0px auto;
+}
+
+
+
+.c3{
+	font-family: "微软雅黑";
+	font-size: 30px;
+}
+
+.footer{
+	text-align: center;
+	background: #DDDDDD;
+}
+
+
+#zjz{
+	/*证件照*/
+	height: 200px;
+	float: right;
+	margin-right: 10%;
+	border-radius: 50%;
+}
+
+table{
+	width: 80%;
+	margin-left: 10%;
+}
+
+th, td {
+	padding: 10px;
+	text-align: center;
+	border: 1px solid #CCCCCC;
+}
+th{
+	background-color: #DDDDDD;
+}
+
+
+.nav{
+	position: relative;
+	width: 100%;
+	height: 50px;
+	background-color:deepskyblue;
+	list-style: none;
+	z-index: 2;
+}
+
+.navlist li{
+	position: relative;
+	float: left;
+	left: 50px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	width: 140px;
+	font-size: 18px;
+}
+
+.navlist{
+	width: 800px;
+	margin: auto;
+}
+
+
+
+
+a:link{
+    color: #3366ff;
+    text-decoration: none;
+}
+a:visited{
+    color: #333333;
+}
+a:hover{
+    color: #ff8000;
+    text-decoration: underline;
+}
+a:active{
+    color: #02df82;
+    text-decoration: underline;
+}
